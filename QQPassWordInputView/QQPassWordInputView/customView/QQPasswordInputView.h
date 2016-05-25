@@ -44,7 +44,7 @@
  */
 - (void)setInputViewReturnKeyType:(UIReturnKeyType)type;
 @end
-
+//密码输入框的回调方法
 @protocol QQPasswordInputViewDelegate <NSObject>
 
 @optional
